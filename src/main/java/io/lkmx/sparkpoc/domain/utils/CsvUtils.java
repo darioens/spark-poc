@@ -1,4 +1,4 @@
-package io.lkmx.sparkpoc.service;
+package io.lkmx.sparkpoc.domain.utils;
 
 import com.fasterxml.jackson.databind.ObjectReader;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;

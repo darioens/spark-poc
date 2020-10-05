@@ -6,4 +6,6 @@ import java.util.List;
 
 public interface StendhalDomain {
     void saveDoctors(List<Doctor> doctors);
+
+    void ingest(String index);
 }
